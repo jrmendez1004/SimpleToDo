@@ -32,7 +32,6 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 For some reason the plain text box wouldn't let me select it to type. 
 
 ## License
